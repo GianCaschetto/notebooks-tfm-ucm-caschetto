@@ -6,6 +6,17 @@
 - Carpeta `data/` al mismo nivel que `notebooks/` (o rutas relativas como en cada notebook).
 - Ejecutar **`00_introduccion_datos.ipynb`** primero si quieres validar rutas y un vistazo rápido a los CSV; no es obligatorio para el EDA si ya conoces los ficheros.
 
+## Datos de ejemplo
+
+La carpeta `data-example/` incluye versiones anonimizadas de los CSV con **1 registro por archivo** para mostrar formato y columnas:
+
+- `data-example/orders.csv`
+- `data-example/order-items.csv`
+- `data-example/customers.csv`
+- `data-example/customer-metrics.csv`
+
+Estos ficheros son solo de referencia estructural (no para entrenar ni evaluar modelos).
+
 ## Notebooks (visión general)
 
 | Notebook | Rol |

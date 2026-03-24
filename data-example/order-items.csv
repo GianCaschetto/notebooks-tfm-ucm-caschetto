@@ -1,0 +1,2 @@
+order_id,order_number,order_date,customer_phone,item_index,product_id,product_name,product_description,category_id,category_name,product_price,quantity,item_subtotal,has_extras,extras_count,extras_names,extras_total,special_request,branch_id,branch_name
+order_demo_0001,100001,2026-01-15,5800000000000001,0,prod_demo_01,Hamburguesa Demo,Producto de ejemplo anonimo,cat_demo_01,Hamburguesas,12.50,1,12.50,false,0,,0.00,,branch_demo_01,Sucursal Centro

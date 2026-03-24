@@ -1,0 +1,2 @@
+order_id,order_number,customer_phone,customer_name,customer_email,order_date,order_time,day_of_week,hour_of_day,branch_id,branch_name,status,payment_method,payment_status,subtotal,delivery_fee,total,total_bs,item_count,special_request,delivery_type,delivery_address,delivery_zone_id,created_at,updated_at
+order_demo_0001,100001,5800000000000001,Cliente Demo,,2026-01-15,13:20:00,Thursday,13,branch_demo_01,Sucursal Centro,delivered,Card,paid,12.50,1.50,14.00,0.00,2,,delivery,Zona Demo 1,zone_demo_01,2026-01-15T13:20:00.000Z,2026-01-15T13:40:00.000Z

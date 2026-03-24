@@ -1,0 +1,2 @@
+customer_id,name,email,phone,address,delivery_type,total_orders,total_spent,average_order_value,first_order_date,last_order_date,days_since_last_order,favorite_payment_method,favorite_branch,total_items_purchased,cancellation_rate,delivery_zone_id
+5800000000000001,Cliente Demo,,5800000000000001,Direccion Demo,delivery,1,14.00,14.00,2026-01-15,2026-01-15,0,Card,branch_demo_01,2,0.00,zone_demo_01
